@@ -1,1 +1,1 @@
-# ComPass
+# ComPaSC
