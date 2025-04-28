@@ -20,7 +20,7 @@ With the increasing prevalence of online communities, social networks have becom
 
 ## Dataset
 
-You can obtain the dataset from [here]([claws-lab/INPAC：KDD 2023 论文“预测在线社区的信息路径”的代码和数据。](https://github.com/claws-lab/INPAC)) [1].
+You can obtain the dataset from [here](https://github.com/claws-lab/INPAC) [1].
 
 1. Yiqiao Jin, Yeon-Chang Lee, Kartik Sharma, Meng Ye, Karan Sikka, Ajay Divakaran, and Srijan Kumar. 2023. Predicting Information Pathways Across Online Communities. In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '23). Association for Computing Machinery, New York, NY, USA, 1044–1056. https://doi.org/10.1145/3580305.3599470
 
