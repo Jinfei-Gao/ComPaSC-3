@@ -4,7 +4,7 @@
 
 This repository contains the code for the SIGIR 2025 paper *Social Context-Aware Community-Level Propagation Prediction*.
 
-Authors: Jinfei Gao, Xiao Wang, Tian Gan$^*$, Jianhua Yin, Chuanchen Luo, Liqiang Nie
+Authors: Jinfei Gao, Xiao Wang, Tian Gan*, Jianhua Yin, Chuanchen Luo, Liqiang Nie
 
 Organizations: Shandong University, Harbin Institute of Technology Shenzhen
 
